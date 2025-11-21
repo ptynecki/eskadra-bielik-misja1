@@ -5,7 +5,7 @@ Notebooki należy uruchomić na Google Colab lub na własnym lokalnym środowis
 Inne ważne linki związane z warsztatem:
 
 * https://github.com/ptynecki/eskadra-bielik-misja1
-* https://github.com/ptynecki/eskadra-bielik-misja1/colab - dodatkowe notebooki
+* https://github.com/ptynecki/eskadra-bielik-misja1/tree/main/colab - dodatkowe notebooki
 * https://speakleash.org/dashboard/
 * https://ollama.com/
 * https://google.github.io/adk-docs/
